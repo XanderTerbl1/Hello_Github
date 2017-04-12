@@ -14,4 +14,6 @@
 
 **Alle werk moet voor die einde van 27April klaar wees**
 
+Arné added this image:
 
+![Octocat](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
